@@ -8,20 +8,10 @@ Built by https://www.blackbox.ai
 ## Project Overview
 This project is a simple web application that mimics the Uber platform's structure and functionality. The UI consists of various sections that allow users to book rides, explore options for drivers, and learn about Uber's business offerings. This project aims to provide a seamless user experience while demonstrating fundamental web development skills using HTML, CSS, and JavaScript.
 
-## Installation
-To set up the project locally, follow these steps:
+## Start Server
+To get started with the Uber Platform Clone, simply start the server.
 
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd uber-clone
-   ```
-
-2. **Open the project**:
-   Open the `index.html` file in your web browser. The project does not require any external server setup.
-
-3. **No node modules needed**:
-   Since this project does not depend on any back-end services or Node.js packages, you can step right into using it.
+python3 -m http.server 8000
 
 ## Usage
 The application features various interactive elements, allowing users to:
